@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
