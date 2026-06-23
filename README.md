@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Matrix
 |  |
 | ------- |
