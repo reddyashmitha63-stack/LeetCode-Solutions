@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3612-process-string-with-special-operations-i](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
