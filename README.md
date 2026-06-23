@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
