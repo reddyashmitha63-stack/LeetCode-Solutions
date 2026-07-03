@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
