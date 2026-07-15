@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
