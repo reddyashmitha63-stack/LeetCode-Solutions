@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
