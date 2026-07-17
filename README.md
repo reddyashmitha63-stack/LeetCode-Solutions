@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -220,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/reddyashmitha63-stack/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
